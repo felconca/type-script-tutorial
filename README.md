@@ -191,6 +191,3 @@ Now that you can run TypeScript, learn these next:
 | **Union & Intersection types** | Combine multiple type possibilities                      |
 
 ---
-
-Would you like me to continue with **Step 9: Basic TypeScript syntax and types** (the actual language features)?
-That’s where we start writing real TypeScript code examples (variables, interfaces, functions, etc.).
