@@ -1,4 +1,4 @@
-Perfect 👍 Let’s start **from zero** — you’ll go from installing TypeScript to running your first real TypeScript program.
+Let’s start **from zero** — you’ll go from installing TypeScript to running your first real TypeScript program.
 
 We’ll cover everything step-by-step 💡
 
